@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(https://i.pinimg.com/originals/22/20/f4/2220f44d724a86650d9d4720dd073549.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+
